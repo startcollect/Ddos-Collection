@@ -14,7 +14,7 @@ List Tools:
 ```
 git clone https://github.com/startcollect/Ddos-Collection.git
 cd Ddos-Collection
-python3 mulai.py
+python3 main.py
 ```
 
 # End
