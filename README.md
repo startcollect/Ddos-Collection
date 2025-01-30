@@ -11,10 +11,10 @@ List Tools:
 7.Saddam         
 
 # Installation
-'''
+```
 git clone https://github.com/startcollect/Ddos-Collection.git
 cd Ddos-Collection
 python3 mulai.py
-'''
+```
 
 # End
